@@ -13,7 +13,7 @@ public class Main {
         principal.popFuncionario("João"); // 3.2 Remover o funcionário “João” da lista.
         principal.printFuncionarios(); // 3.3 Imprimir todos os funcionários com todas suas informações
         principal.updateSalario(0.1); // 3.4 – Os funcionários receberam 10% de aumento de salário.
-        principal.printFuncionarioByFuncao(); // 3.5 e 3.6  – Agrupar os funcionários por função em um MAP e  Imprimir
+        principal.printFuncionarioByFuncao(); // 3.5 e 3.6 – Agrupar os funcionários por função em um MAP e  Imprimir
         principal.printAniversarioNosMeses(10, 12); // 3.8 – Imprimir os funcionários que fazem aniversário no mês 10 e 12.
         principal.printFuncionarioMaiorIdade(); // 3.9 – Imprimir o funcionário com a maior idade, exibir os atributos: nome e idade.
         principal.printNomesEmOrdem(); // 3.10 – Imprimir a lista de funcionários por ordem alfabética.

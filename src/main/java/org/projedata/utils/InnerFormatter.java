@@ -10,7 +10,6 @@ public class InnerFormatter {
     */
 
     public static String formatData(LocalDate data){
-
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         return data.format(formatter);
     }

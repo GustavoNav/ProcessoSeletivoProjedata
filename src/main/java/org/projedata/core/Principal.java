@@ -136,7 +136,6 @@ public class Principal {
     }
 
     public void printSalarioMinimos(BigDecimal salarioMinimo){
-
         for ( Funcionario f : funcionarios){
             BigDecimal valor = f.getSalario().divide(salarioMinimo, 2, RoundingMode.HALF_UP);
             System.out.println(f.getNome() + " " + valor + "x");
