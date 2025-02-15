@@ -11,6 +11,10 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public class Loader {
+    /*
+    Classe responsável por carregar os dados do arquivo TxT para memória da classe Principal.
+    */
+
     public static void loadData(Principal principal){
         BufferedReader reader;
 

@@ -5,7 +5,12 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public class InnerFormatter {
+    /*
+    Classe responsável por aplicar formatações em dados dos funcionários
+    */
+
     public static String formatData(LocalDate data){
+
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         return data.format(formatter);
     }
