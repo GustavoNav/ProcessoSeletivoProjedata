@@ -6,7 +6,7 @@ Este projeto foi criado utilizando Java 21.0.6. Para rodar localmente, siga os p
 
 ### 1. Clone o Repositório
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/GustavoNav/ProcessoSeletivoProjedata.git
 ```
 ### 2. Instale as Dependências
 O projeto utiliza Maven como ferramenta de gerenciamento de dependências e build. Certifique-se de que o Maven esteja instalado no seu sistema. <br>
