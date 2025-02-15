@@ -10,7 +10,7 @@ git clone https://github.com/GustavoNav/ProcessoSeletivoProjedata.git
 ```
 ### 2. Instale as Dependências
 O projeto utiliza Maven como ferramenta de gerenciamento de dependências e build. Certifique-se de que o Maven esteja instalado no seu sistema. <br>
-navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências:
+Navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências:
 
 ```
 mvn clean install
